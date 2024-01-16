@@ -1,5 +1,5 @@
 venv/
 .vscode/
-db/
+library.db
 .DS_Store
 __pycache__/
